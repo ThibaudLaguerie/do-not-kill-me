@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "Wolverine": [
+                {
+                    "question": "En quelle année Wolverine est-il apparu dans un comic pour la première fois ?",
+                    "answer": "1974"
+                },
+                {
+                    "question": "Quel est le nom du premier antagoniste que Wolverine a rencontré ?",
+                    "answer": "Wendigo"
+                },
+                {
+                    "question": "De quel pays est-il originaire ?",
+                    "answer": "Canada"
+                },
+                {
+                    "question": "Quel est le (vrai) nom complet de Wolverine ?",
+                    "answer": "James Howlett"
+                },
+                {
+                    "question": "Quel est le nom du métal qui recouvre le squelette de Wolverine ?",
+                    "answer": "Adamantium"
+                },
+                {
+                    "question": "Quel est le nom de son clone féminin, considérée comme sa fille ?",
+                    "answer": "X-23"
+                },
+                {
+                    "question": "Combien de griffes possède-t-il à chaque main ?",
+                    "answer": 3
+                },
+                {
+                    "question": "A qui rend-t-il hommage en baptisant son école pour jeunes mutants ?",
+                    "answer": "Jean Grey"
+                },
+                {
+                    "question": "Comment a été traduit \"Wolverine\" en français lors des premières éditions?",
+                    "answer": "Serval"
+                },
+                {
+                    "question": "Qui joue Wolverine au cinéma ?",
+                    "answer": "Hugh Jackman"
+                }
+            ]
+        },
+        {
+            "Thor": [
+                {
+                    "question": "De quelle mythologie est issu Thor ?",
+                    "answer": "Nordique"
+                },
+                {
+                    "question": "Quel est le nom du marteau enchanté de Thor ?",
+                    "answer": "Mjölnir"
+                },
+                {
+                    "question": "Quel est le nom de la hache de Thor ?",
+                    "answer": "Stormbreaker"
+                },
+                {
+                    "question": "Quel est le nom du domaine des dieux, lieu de naissance de Thor ?",
+                    "answer": "Asgard"
+                },
+                {
+                    "question": "Qui est le père de Thor, dieu du tonnerre ?",
+                    "answer": "Odin"
+                },
+                {
+                    "question": "Dans la mythologie Nordique, quel évènement est censé résulter en la mort de Thor ?",
+                    "answer": "Ragnarök"
+                },
+                {
+                    "question": "Thor est l'un des membres fondateurs d'un groupe de superhéros, lequel ?",
+                    "answer": "Avengers"
+                },
+                {
+                    "question": "Quel est le nom du demi-frère de Thor, dieu du malice, de la discorde et des illusions ?",
+                    "answer": "Loki"
+                },
+                {
+                    "question": "Quel est le nom Asgard du domaine des mortels ?",
+                    "answer": "Midgard"
+                },
+                {
+                    "question": "Qui joue Thor au cinéma ?",
+                    "answer": "Chris Hemsworth"
+                }
+            ]
+        },
+        {
+            "Spiderman": [
+                {
+                    "question": "Quel est le nom réel de Spiderman ?",
+                    "answer": "Peter Parker"
+                },
+                {
+                    "question": "Quelle ville protège-t-il ?",
+                    "answer": "New York"
+                },
+                {
+                    "question": "Quel est son métier ?",
+                    "answer": "Photographe"
+                },
+                {
+                    "question": "Quel est le nom du journal pour lequel il travaille ?",
+                    "answer": "Daily Bugle"
+                },
+                {
+                    "question": "Qui a prononcé la phrase \"Un grand pouvoir implique de grandes responsabilités\" ?",
+                    "answer": "Oncle Ben"
+                },
+                {
+                    "question": "Comment s'appelle le symbiote alien survivant en prenant pour hôte des humains ?",
+                    "answer": "Venom"
+                },
+                {
+                    "question": "Qui est l'antagoniste du premier film Spiderman ?",
+                    "answer": "Le Bouffon Vert"
+                },
+                {
+                    "question": "Quel est le nom du scientifique fou, nemesis de Spiderman ?",
+                    "answer": "Docteur Octopus"
+                },
+                {
+                    "question": "En quelle année a été publié le premier comic Spiderman ?",
+                    "answer": "1962"
+                },
+                {
+                    "question": "Quel est le nom de la petite amie de Peter Parker ?",
+                    "answer": "Mary Jane Watson"
+                }
+            ]
+        },
+        {
+            "Deadpool": [
+                {
+                    "question": "Quel est le vrai nom de Deadpool ?",
+                    "answer": "Wade Wilson"
+                },
+                {
+                    "question": "En quelle année est-il paru la première fois dans un comic ?",
+                    "answer": "1991"
+                },
+                {
+                    "question": "Qui est l'antagoniste du permier film Deadpool ?",
+                    "answer": "Ajax"
+                },
+                {
+                    "question": "Qui est le superhéros adversaire et \"ami\" de Deadpool ?",
+                    "answer": "Wolverine"
+                },
+                {
+                    "question": "Quel superhéros admire-t-il ?",
+                    "answer": "Spiderman"
+                },
+                {
+                    "question": "Quel est le pouvoir de Deadpool ?",
+                    "answer": "Guérison"
+                },
+                {
+                    "question": "De quelle maladie souffre Deadpool ?",
+                    "answer": "Cancer"
+                },
+                {
+                    "question": "De quel groupe faisait-il partie avant d'endosser le rôle de Deadpool ?",
+                    "answer": "Forces Spéciales"
+                },
+                {
+                    "question": "Quel pays a interdit la diffusion du film ?",
+                    "answer": "Chine"
+                },
+                {
+                    "question": "Qui joue Deadpool au cinéma ?",
+                    "answer": "Ryan Reynolds"
+                }
+            ]
+        }
+    ]
+}
